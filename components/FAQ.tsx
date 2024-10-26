@@ -2,7 +2,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "./
 
 export function FAQ() {
     return (
-        <section className="mt-20" id="faq">
+        <section className="mt-20" id="FAQ">
             <div className="flex justify-center flex-col items-center gap-2">
                 <h1 className="text-blue-500 animate-bounce text-2xl" data-aos="fade-down">FAQ</h1>
                 <h2 className="text-3xl" data-aos="fade-up">Perguntas Frequentes</h2>
