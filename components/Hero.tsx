@@ -4,7 +4,7 @@ import { FaAngleDoubleDown,  FaGlobe } from 'react-icons/fa';
 
 export function Hero() {
     return (
-        <section className="">
+        <section id="Home">
             <div className="flex justify-center items-center animate-pulse -mb-5">
                 <Image src="/ImgLogo.svg" width={600} height={100} alt="" data-aos="flip-up" />
             </div>
