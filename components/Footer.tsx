@@ -9,7 +9,7 @@ export function Footer() {
                     <ul className="flex flex-col items-center space-y-2 text-gray-300">
                         <li><a href="#Home" className="hover:text-blue-500 transition duration-300 font-secondary font-extralight text-gray-300">Home</a></li>
                         <li><a href="#services" className="hover:text-blue-500 transition duration-300 font-secondary font-extralight text-gray-300">Serviços</a></li>
-                        <li><a href="#portifolio" className="hover:text-blue-500 transition duration-300 font-secondary font-extralight text-gray-300">Trabalhos</a></li>
+                        <li><a href="#Portifolio" className="hover:text-blue-500 transition duration-300 font-secondary font-extralight text-gray-300">Trabalhos</a></li>
                         <li><a href="#Skills" className="hover:text-blue-500 transition duration-300 font-secondary font-extralight text-gray-300">Skills</a></li>
                         <li><a href="#Testimonial" className="hover:text-blue-500 transition duration-300 font-secondary font-extralight text-gray-300">Depoimentos</a></li>
                         <li><a href="#About" className="hover:text-blue-500 transition duration-300 font-secondary font-extralight text-gray-300">Sobre</a></li>
