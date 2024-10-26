@@ -58,6 +58,7 @@ export function About() {
                                             <AlertDialogDescription className="flex flex-col gap-5 mt-8">
                                                     <span className="font-secondary">1. Ensino Médio Completo | Colégio Sacramentinas - BA | 2022</span>
                                                     <span className="font-secondary">2. Cursando Análise e Desenvolvimento de Sistemas | 3º semestre | UNIFACS | 2023 - 2025</span>
+                                                    <span className="font-secondary">3.Escola Inglês UPTime | Inglês Pré-Intermediário | Salvador-BA | 2023</span>
                                             </AlertDialogDescription>
                                         </AlertDialogHeader>
                                         <AlertDialogFooter>

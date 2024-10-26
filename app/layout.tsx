@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Audiowide, Inter } from 'next/font/google';
 import "./globals.css";
+import Head from "next/head";
 
 
 const inter = Inter({
@@ -29,6 +30,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-br">
+      <Head>
+      <meta name="google-site-verification" content="M4Pw1J2X-V6c2FotMav2KX72M48-Zvp0Lhnc9Q4qOnI" />
+      </Head>
       <body
         className={`${audiowide.variable} ${inter.variable} antialiased dark`}
       >
