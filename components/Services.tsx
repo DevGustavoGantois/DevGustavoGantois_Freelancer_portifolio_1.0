@@ -1,5 +1,5 @@
 import { Card, CardDescription, CardHeader, CardTitle } from "./ui/card";
-import { FaGlobe } from "react-icons/fa"; // Importa o ícone do Font Awesome
+import { FaGlobe } from "react-icons/fa"; 
 
 export function Services() {
     return (
@@ -9,14 +9,14 @@ export function Services() {
                     Como posso <span className="text-blue-500">ajudá-lo?</span>
                 </h1>
                 <p className="text-gray-500 text-center font-secondary">
-                    Conheça os meus serviços e por que me diferencio dos demais!
+                    Conheça os meus serviços e porque me diferencio dos demais!
                 </p>
             </div>
             <article className="grid grid-cols-1 lg:grid-cols-2 xL:grid-cols-4 gap-8">
                 {/* Card 1 */}
                 <Card className="p-4 lg:p-12" data-aos="fade-up" data-aos-offset="300">
                     <CardHeader className="flex flex-col items-center">
-                        <FaGlobe className="text-blue-500 mb-2 text-2xl" /> {/* Ícone acima do título */}
+                        <FaGlobe className="text-blue-500 mb-2 text-2xl" /> 
                         <CardTitle className="text-center">Desenvolvimento Web Responsivo Personalizado</CardTitle>
                     </CardHeader>
                     <CardDescription className="text-center font-secondary">
