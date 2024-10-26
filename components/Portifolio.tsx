@@ -4,7 +4,7 @@ import { Button } from "./ui/button";
 
 export function Portifolio() {
     return (
-        <section className="relative" id="portifolio">
+        <section className="relative" id="Portifolio">
             <div className="flex items-center justify-center top-0 left-1/2 -translate-x-1/2 -mt-24 -z-10 absolute">
                 <Image src="/ImgBg.svg" width={1100} height={200} quality={100} alt="Background" />
             </div>
