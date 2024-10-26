@@ -24,7 +24,7 @@ export function Hero() {
             </div>
             <div className="relative" data-aos="fade-down">
             <Button variant="outline" className="flex items-center">
-                <a className="pr-1" href="#portifolio">Conheça meu portifólio</a>
+                <a className="pr-1" href="#Portifolio">Conheça meu portifólio</a>
                 <FaGlobe className="ml-2" /> 
             </Button>
             </div>
