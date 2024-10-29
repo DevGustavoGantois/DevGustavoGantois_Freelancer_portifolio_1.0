@@ -38,9 +38,10 @@ export function About() {
                                                     <span className="font-secondary">6. Acessibilidade, modal, requisição HTTP, conexão com API, gerenciamento de estados via contexto performance. | RocketSeat</span>
                                                     <span className="font-secondary">7. Masterizando o TailwindCSS | RocketSeat</span>
                                                     <span className="font-secondary">8. NWL Pocket Full Stack (Trilha Intermediária) | RocketSeat</span>
-                                                    <span className="font-secondary">9. Introdução a CiberSegurança | CISCO</span>
-                                                    <span className="font-secondary">10. Certificado de Fundamentos a CiberSegurança | CISCO Networking Academy</span>
-                                                    <span className="font-secondary">11. Certificado do Mundo 1 e 2 de Python | Gustavo Guanabara</span>
+                                                    <span className="font-secondary">9. Fundamentos em Next.JS | RocketSeat</span>
+                                                    <span className="font-secondary">10. Introdução a CiberSegurança | CISCO</span>
+                                                    <span className="font-secondary">11. Certificado de Fundamentos a CiberSegurança | CISCO Networking Academy</span>
+                                                    <span className="font-secondary">12. Certificado do Mundo 1 e 2 de Python | Gustavo Guanabara</span>
                                             </AlertDialogDescription>
                                         </AlertDialogHeader>
                                         <AlertDialogFooter>
