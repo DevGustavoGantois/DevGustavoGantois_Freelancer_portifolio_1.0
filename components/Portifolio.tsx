@@ -98,7 +98,23 @@ export function Portifolio() {
                     </CardFooter>
                     </CardContent>
                 </Card>
-                
+                <Card data-aos="fade-down">
+                    <CardHeader>
+                        <CardTitle className="text-blue-500 text-center mt-6 mb-12">Landing Page</CardTitle>
+                    </CardHeader>
+                    <CardContent>
+                    <div className="flex justify-center mb-12">
+                    <Image src="/Project6.png" width={600} height={400} quality={100} alt="" className="float"/>
+                    </div>
+                    <CardDescription className="text-gray-500 text-center mt-4 mb-10 font-secondary">Projeto desenvolvido com Next | Typescript | Tailwind | AOS Animation</CardDescription>
+                    <CardFooter className="flex justify-center items-center">
+                    <div className="flex flex-col lg:flex-row justify-center items-center gap-4">
+                        <Button variant="ghost"><a href="https://devstreak.vercel.app/" target="_blank" className="text-white">Visualizar</a></Button>
+                        <Button><a href="#Testimonial" className="text-white">Depoimento do cliente</a></Button>
+                    </div>
+                    </CardFooter>
+                    </CardContent>
+                </Card>
             </div>
         </section>
     );

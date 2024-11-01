@@ -6,7 +6,8 @@ const TestimonialsData = [
     {name: "Matheus Hayashi", description: "Irmão está muito bom o site, ficou perfeito!"},
     { name: "Samuel Fernandes", description: "Site ficou muito bom, convence muito bem o cliente de fechar a compra, me poupa muito o trabalho de vender no boca a boca, entregou dentro do prazo e supriu todas as minhas expectativas" },
     { name: "Matheus Caria", description: "O site ficou muito bom irmão! Está muito lindo de verdade, muito obrigado!" },
-    { name: "Maurício Sampaio", description: "Guga, você é o cara, o site ficou muito bom, você conseguiu transmitir dentro do site exatamente o que eu te pedi." }
+    { name: "Maurício Sampaio", description: "Guga, você é o cara, o site ficou muito bom, você conseguiu transmitir dentro do site exatamente o que eu te pedi." },
+    {name: "Thomaz Pedro", description: "Fera demais! Parabéns mesmo, o projeto ficou muito bom!"}
 ];
 
 export function Testimonials() {
