@@ -42,6 +42,7 @@ export function About() {
                                                     <span className="font-secondary">10. Introdução a CiberSegurança | CISCO</span>
                                                     <span className="font-secondary">11. Certificado de Fundamentos a CiberSegurança | CISCO Networking Academy</span>
                                                     <span className="font-secondary">12. Certificado do Mundo 1 e 2 de Python | Gustavo Guanabara</span>
+                                                    <span className="font-secondary">13. Certificado em Design System | Design | Storybook | Github Actions</span>
                                             </AlertDialogDescription>
                                         </AlertDialogHeader>
                                         <AlertDialogFooter>
