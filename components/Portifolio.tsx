@@ -41,7 +41,7 @@ export function Portifolio() {
                     <CardDescription className="text-center mt-4 mb-10 font-secondary">Projeto desenvolvido com Next| Typescript | TailwindCSS | Framer Motion </CardDescription>
                     <CardFooter className="flex justify-center items-center">
                         <div className="flex flex-col lg:flex-row justify-center items-center gap-4">
-                        <Button variant="ghost"><a href="https://msampaio.adv.br/" target="_blank" className="text-white">Visualizar</a></Button>
+                        <Button variant="ghost"><a href="https://msampaio-adv.vercel.app/" target="_blank" className="text-white">Visualizar</a></Button>
                         <Button><a href="#Testimonial" className="text-white">Depoimento do cliente</a></Button>
                         </div>
                     </CardFooter>
