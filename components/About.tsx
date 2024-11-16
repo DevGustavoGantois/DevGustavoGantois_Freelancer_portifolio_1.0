@@ -42,7 +42,10 @@ export function About() {
                                                     <span className="font-secondary">10. Introdução a CiberSegurança | CISCO</span>
                                                     <span className="font-secondary">11. Certificado de Fundamentos a CiberSegurança | CISCO Networking Academy</span>
                                                     <span className="font-secondary">12. Certificado do Mundo 1 e 2 de Python | Gustavo Guanabara</span>
-                                                    <span className="font-secondary">13. Certificado em Design System | Design | Storybook | Github Actions</span>
+                                                    <span className="font-secondary">13. Certificado em Design System | Design | Storybook | Github Actions - RocketSeat</span>
+                                                    <span className="font-secondary">14. Integrando o Frontend e Backend | RocketSeat </span>
+                                                    <span className="font-secondary">15. Aprofundando em Next.js | RocketSeat</span>
+                                                    <span className="font-secondary">16. Especialista em React | RocketSeat</span>
                                             </AlertDialogDescription>
                                         </AlertDialogHeader>
                                         <AlertDialogFooter>
