@@ -67,7 +67,13 @@ export function FAQ() {
                     Atualmente, minha especialização é no desenvolvimento da interface do usuário (UI), focando exclusivamente na parte visual e na experiência do usuário (UX). Neste momento, não atuo com bancos de dados ou servidores. No entanto, estou aberto a expandir meus serviços no futuro, caso surjam necessidades específicas dos clientes nessa área.
                     </AccordionContent>
                 </AccordionItem>
-                <AccordionItem data-aos="fade-down" value="item-7" className="mb-6">
+                <AccordionItem value="item-7" data-aos="fade-down" className="mb-6">
+                    <AccordionTrigger className="text-white hover:text-blue-500 transition-all duration-700">Você trabalha cria sistemas e aplicações Fullstack?</AccordionTrigger>
+                    <AccordionContent className="text-gray-500 font-secondary">
+                    Atualmente, estou me dedicando ao estudo de Java com o objetivo de aprimorar minhas aplicações, tornando-as full stack e mais funcionais. Além disso, busco expandir minhas habilidades na criação de APIs robustas, no desenvolvimento de sistemas eficientes e em soluções para e-commerce, ampliando assim minhas possibilidades profissionais.  
+                    </AccordionContent>
+                </AccordionItem>
+                <AccordionItem data-aos="fade-down" value="item-8" className="mb-6">
                     <AccordionTrigger className="text-white hover:text-blue-500 duration-700 transition-all">Você trabalha com plataformas como Wordpress | Shopify | Wix Studio?</AccordionTrigger>
                     <AccordionContent className="text-gray-500 font-secondary lg:w-[800px]">
                         Sim, eu trabalho com todas essas plataformas, além de desenvolver projetos dentro de editores de código.

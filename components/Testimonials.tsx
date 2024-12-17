@@ -7,7 +7,11 @@ const TestimonialsData = [
     { name: "Samuel Fernandes", description: "Site ficou muito bom, convence muito bem o cliente de fechar a compra, me poupa muito o trabalho de vender no boca a boca, entregou dentro do prazo e supriu todas as minhas expectativas" },
     { name: "Matheus Caria", description: "O site ficou muito bom irmão! Está muito lindo de verdade, muito obrigado!" },
     { name: "Maurício Sampaio", description: "Guga, você é o cara, o site ficou muito bom, você conseguiu transmitir dentro do site exatamente o que eu te pedi." },
-    {name: "Thomaz", description: "Fera demais! Parabéns mesmo, o projeto ficou muito bom!"}
+    {name: "Thomaz", description: "Fera demais! Parabéns mesmo, o projeto ficou muito bom!"},
+    {name: "Mônica Aran", description: "Ficou show Gustavo! O site ficou perfeito e transmitiu o que eu quero passar para os meus clientes!"},
+    {name: "Eric Souza dos Santos", description: "Trabalhar com Gustavo no Hackathon da FullDev foi essencial para o sucesso do projeto. Como designer UI/UX e desenvolvedor front-end, ele criou uma identidade visual original e de alta qualidade usando React e Next.js. Proativo, comunicativo e dedicado, sua contribuição foi fundamental para conquistarmos o primeiro lugar. Recomendo Gustavo sem dúvida para qualquer desafio!"},
+    {name: "Carlos Augusto", description: "Colaborar com Gustavo no Hackathon Ato 5 da Fulldev foi incrível! Sua visão criativa e habilidade em transformar ideias em interfaces intuitivas elevaram o projeto. Tenho certeza de que ele fará a diferença em qualquer equipe!"},
+    {name: "Gabriel Dias Santiago", description: "Minha sincera gratidão ao Gustavo pelo excelente trabalho como designer e desenvolvedor front-end. Sua criatividade e técnica foram impecáveis. Foi um prazer trabalhar com você e espero colaborarmos novamente no futuro!"}
 ];
 
 export function Testimonials() {

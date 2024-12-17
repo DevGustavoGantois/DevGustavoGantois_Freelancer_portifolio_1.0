@@ -115,6 +115,40 @@ export function Portifolio() {
                     </CardFooter>
                     </CardContent>
                 </Card>
+                <Card data-aos="fade-down">
+                    <CardHeader>
+                        <CardTitle className="text-blue-500 text-center mt-6 mb-12">Landing Page</CardTitle>
+                    </CardHeader>
+                    <CardContent>
+                    <div className="flex justify-center mb-12">
+                    <Image src="/Project7.png" width={600} height={400} quality={100} alt="" className="float"/>
+                    </div>
+                    <CardDescription className="text-gray-500 text-center mt-4 mb-10 font-secondary">Projeto desenvolvido com Next | Typescript | Tailwind | AOS Animation</CardDescription>
+                    <CardFooter className="flex justify-center items-center">
+                    <div className="flex flex-col lg:flex-row justify-center items-center gap-4">
+                        <Button variant="ghost"><a href="https://website-monica-aran.vercel.app/" target="_blank" className="text-white">Visualizar</a></Button>
+                        <Button><a href="#Testimonial" className="text-white">Depoimento do cliente</a></Button>
+                    </div>
+                    </CardFooter>
+                    </CardContent>
+                </Card>
+                <Card data-aos="fade-down">
+                    <CardHeader>
+                        <CardTitle className="text-blue-500 text-center mt-6 mb-12">Landing Page | Dashboard Fullstack</CardTitle>
+                    </CardHeader>
+                    <CardContent>
+                    <div className="flex justify-center mb-12">
+                    <Image src="/Project8.png" width={600} height={400} quality={100} alt="" className="float"/>
+                    </div>
+                    <CardDescription className="text-gray-500 text-center mt-4 mb-10 font-secondary">Projeto desenvolvido com Next | Typescript | Tailwind | Java | AOS Animation</CardDescription>
+                    <CardFooter className="flex justify-center items-center">
+                    <div className="flex flex-col lg:flex-row justify-center items-center gap-4">
+                        <Button variant="ghost"><a href="https://fulldev-seven.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaZTMuQeNDinOGKcBt59yV2zoTk5G0r3EB5lYZB2tXQvOoB4sH5JM1rn0oo_aem__QaWJekN-srZCm1KDCDSzQ" target="_blank" className="text-white">Visualizar</a></Button>
+                        <Button><a href="#Testimonial" className="text-white">Depoimento do cliente</a></Button>
+                    </div>
+                    </CardFooter>
+                    </CardContent>
+                </Card>
             </div>
         </section>
     );

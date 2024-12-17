@@ -64,6 +64,10 @@ export function Techs() {
                             <p className="uppercase text-gray-100">Git</p>
                             <Progress value={50} />
                         </div>
+                        <div className="flex flex-col lg:flex-row gap-12 justify-between items-center">
+                            <p className="uppercase text-gray-100">JAVA</p>
+                            <Progress value={25} />
+                        </div>
                     </CardContent>    
                 </Card>
                 </div>
