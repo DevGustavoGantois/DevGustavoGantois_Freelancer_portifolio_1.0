@@ -126,7 +126,7 @@ export function Portifolio() {
                     <CardDescription className="text-gray-500 text-center mt-4 mb-10 font-secondary">Projeto desenvolvido com Next | Typescript | Tailwind | AOS Animation</CardDescription>
                     <CardFooter className="flex justify-center items-center">
                     <div className="flex flex-col lg:flex-row justify-center items-center gap-4">
-                        <Button variant="ghost"><a href="https://website-monica-aran.vercel.app/" target="_blank" className="text-white">Visualizar</a></Button>
+                        <Button variant="ghost"><a href="https://www.psimonicaaran.com.br/" target="_blank" className="text-white">Visualizar</a></Button>
                         <Button><a href="#Testimonial" className="text-white">Depoimento do cliente</a></Button>
                     </div>
                     </CardFooter>
