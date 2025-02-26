@@ -46,6 +46,7 @@ export function About() {
                                                     <span className="font-secondary">14. Integrando o Frontend e Backend | RocketSeat </span>
                                                     <span className="font-secondary">15. Aprofundando em Next.js | RocketSeat</span>
                                                     <span className="font-secondary">16. Especialista em React | RocketSeat</span>
+                                                    <span className="font-secondary">16. Fundamentos em Java | RocketSeat</span>
                                             </AlertDialogDescription>
                                         </AlertDialogHeader>
                                         <AlertDialogFooter>
