@@ -54,7 +54,7 @@ export function Techs() {
                         </div>
                         <div className="flex flex-col lg:flex-row gap-12 justify-between items-center">
                             <p className="uppercase text-gray-100">Next.js</p>
-                            <Progress value={80} />
+                            <Progress value={95} />
                         </div>
                         <div className="flex flex-col lg:flex-row gap-12 justify-between items-center">
                             <p className="uppercase text-gray-100">Tailwindcss</p>
